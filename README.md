@@ -1,6 +1,8 @@
-# HTML- CSS - JavaScript
-Basics of html and css as code snippets
-30 days of JS
+# 30 days of JavaScript
+A 30 days challenge to build projects using HTML, CSS and JS
 
 # DAY 1
-Build a clock using JS
+Build a digital-clock 
+
+# Day 2
+Build a calculator
