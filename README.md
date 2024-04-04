@@ -6,3 +6,6 @@ Build a digital-clock
 
 # Day 2
 Build a calculator
+
+# Day 3
+Build a music player
