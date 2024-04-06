@@ -9,3 +9,7 @@ Build a calculator
 
 # Day 3
 Build a music player
+
+# Day 4
+Tic Tac Toe game
+
