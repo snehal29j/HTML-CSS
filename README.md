@@ -15,3 +15,6 @@ Tic Tac Toe game
 
 # Day 5
 To Do List 
+
+# Day 6
+Wordle game
