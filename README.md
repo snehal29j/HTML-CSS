@@ -18,3 +18,6 @@ To Do List
 
 # Day 6
 Wordle game
+
+# Day 7
+Weather app
