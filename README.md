@@ -21,3 +21,6 @@ Wordle game
 
 # Day 7
 Weather app
+
+# Day 8
+Empolyee database management system
